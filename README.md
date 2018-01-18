@@ -1,5 +1,5 @@
 ## react-search
-> react,redux项目 开发详情 和 个人总结
+> react+redux+react Router4.0 + webpack 项目
 
 注: 因为接口数据来至zbj域名,如果需要运行项目,为能正确获取到数据,请先绑定host `127.0.0.1	 search.zbj.com`。
 
